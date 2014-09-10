@@ -14,7 +14,7 @@ class MainController {
     
     public function contactAction()
     {
-        return new Response('<h1>Contactez nous!</h1>');
+        return new Response('<h1>Contactez nous!!</h1>');
     }
 
 }
